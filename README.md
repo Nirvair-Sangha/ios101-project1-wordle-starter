@@ -24,7 +24,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 
-Screenshot - 23 September 2023 - Watch Video
+<div>
+    <a href="https://www.loom.com/share/88642f25f5884568bb5a755740d717a0">
+      <p>Screenshot - 23 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/88642f25f5884568bb5a755740d717a0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/88642f25f5884568bb5a755740d717a0-with-play.gif">
+    </a>
+  </div>
 
 
 
