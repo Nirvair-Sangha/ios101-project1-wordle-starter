@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle-Starter
 
-Submitted by: **Your Name Here**
+Submitted by: Nick Sangha
 
-**Name of your app** is an app that ... [TODO] 
+Wordle Starter is an app that takes in different words and tells the user what letters have appeared in those words. If the letter appears in the same position as it would be in the goal word, then it comes out green, if the letter is anywhere else in the word it comes out yellow. Once the word is found the app is done and the whole word is highlighted green.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
